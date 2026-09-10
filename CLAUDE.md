@@ -1,4 +1,4 @@
-# CLAUDE.md — esp32c6-lcd147-projects
+# CLAUDE.md — ws-esp32c6-lcd147-projects
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ Each project lives in `projects/`. Shared ESP-IDF components live in `shared/com
 ## Repo Structure
 
 ```
-esp32c6-lcd147-projects/
+ws-esp32c6-lcd147-projects/
 ├── shared/components/    # Shared: lvgl__lvgl, lcd_driver, espressif__led_strip
 ├── projects/             # One subdirectory per project
 ├── ref/                  # Vendor reference/test code — gitignored, do not modify

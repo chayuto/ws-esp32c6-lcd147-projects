@@ -140,7 +140,7 @@ The common thread: **MCP turns hardware into a tool the AI already knows how to 
 
 Both projects are open source:
 
-- **[esp32c6-lcd147-projects](https://github.com/chayuto/esp32c6-lcd147-projects)** — full source, integration tests, and build instructions
+- **[ws-esp32c6-lcd147-projects](https://github.com/chayuto/ws-esp32c6-lcd147-projects)** — full source, integration tests, and build instructions
 
 You'll need an ESP32-C6 board with an ST7789 LCD (the specific 1.47" module I used is linked in the repo). Flash the firmware, connect to Wi-Fi, point your MCP client at `http://esp32-canvas.local/mcp`, and start drawing.
 
